@@ -1,0 +1,1 @@
+document.getElementById('conteudo').innerText = 'Conteúdo do site de análises esportivas vai aqui.';
