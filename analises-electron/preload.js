@@ -1,1 +1,0 @@
-// Preload script for Electron - currently empty
